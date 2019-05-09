@@ -25,7 +25,7 @@ The program depends on *[React](https://github.com/facebook/react)*,*[Express.js
    Run `npm start`   
 
 # Demo
-[![watch video](https://github.com/xiaohai0520/face_recognition_brain/blob/master/back_end/face.jpg?raw=true)](https://youtu.be/wOngiOBlkS4)
+[![watch video](https://github.com/xiaohai0520/face_recognition_brain/blob/master/back_end/face1.jpg?raw=true)](https://youtu.be/wOngiOBlkS4)
 
    
 
